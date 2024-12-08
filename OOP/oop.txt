@@ -1,0 +1,4 @@
+QUESTION, Object oriented programming(OOP)
+QUESTION, OOP is a program that mainly focuses on the way of using an object, and focuses more on them
+question, an object is something that has features and/or functions
+question, OOP is also compatible with C++ and java
